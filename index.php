@@ -2,4 +2,6 @@
 
 test
 
+test2
+
 ?>
