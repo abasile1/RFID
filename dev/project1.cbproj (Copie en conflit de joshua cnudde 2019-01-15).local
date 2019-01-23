@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/17 09:36:22.000.211,=C:\Users\josh\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2018/10/17 09:36:22.000.198,=C:\Users\josh\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2018/12/07 15:59:32.000.435,=C:\Users\josh\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2018/12/07 15:59:32.000.449,=C:\Users\josh\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2018/12/07 16:00:00.000.323,C:\Users\josh\Dropbox\tp lecteur carte\ihm.h=C:\Users\josh\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2018/12/07 16:00:00.000.323,C:\Users\josh\Dropbox\tp lecteur carte\ihm.dfm=C:\Users\josh\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2018/12/07 16:00:00.000.323,C:\Users\josh\Dropbox\tp lecteur carte\ihm.cpp=C:\Users\josh\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2018/12/07 16:00:41.000.045,C:\Users\josh\Dropbox\tp lecteur carte\code\Project1PCH1.h=C:\Users\josh\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2018/12/07 16:00:42.000.319,C:\Users\josh\Dropbox\tp lecteur carte\Project1.cbproj=C:\Users\josh\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2018/12/07 16:03:32.000.843,=C:\Users\josh\Dropbox\tp lecteur carte\code\uFCoder_omf.lib</Transaction>
+    <Transaction>2018/12/07 16:03:42.000.771,=C:\Users\josh\Dropbox\tp lecteur carte\code\ufCoder.h</Transaction>
+  </Transactions>
+</BorlandProject>

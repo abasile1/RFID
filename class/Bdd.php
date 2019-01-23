@@ -15,6 +15,7 @@
 	        	die('Erreur : ' . $e->getMessage());
 			}
 		}
+		/*  envoie une requete à la bdd renvoie la reponse de la bdd*/
 		public function requete($requete)
 		{
 			$requeste=$this->_db->query($requete);
